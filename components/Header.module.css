@@ -1,0 +1,9 @@
+
+.gap{
+   justify-content: flex-end;
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    box-shadow: 13px 10px 5px 0px white;
+    -webkit-box-shadow: 13px 10px 5px 0px white
+}
